@@ -1,0 +1,27 @@
+Chào thầy, cảm ơn thầy đã xem video demo của nhóm em
+Nhóm em làm demo về chương trình quản lý rau củ
+- Cài đặt môi trường và các công cụ hỗ trợ
+	+ Cài pycharm lên web cài về
+	+ Cài MySql workBench
+	+ Cài python phiên bản vừa đủ để có thể hổ trợ hiện tại chúng em 
+đang sử dụng python 3.10 do bản python 3.11 không hỗ trợ cho thư viện pygame
+- Tạo dự án mới và setup môi trường
+	+ Cài thư viện tkinter tạo giao diện người dùng
+	+ Cài thư viện pymysql dùng để kết nối với MySQL
+	+ Cài thư viện pandas dùng để thao tác với excel
+	+ Cài thư viện pygame dùng tạo game
+- Thực hiện demo từng chức năng
+	+ Nút giải trí
+		Chọn game flappy bird
+		Chọn game xếp hình
+	+ Nút đăng nhập
+		Giao diện quản lý
+			Phần hiển thị ngày giờ
+			Phần slide chuyển động
+			Nút kết nối cơ sở dữ liệu
+			Nút thêm rau củ mới
+			Nút tìm kiếm rau củ
+			Nút cập nhật rau củ
+			Nút xóa rau củ
+			Nút xem rau củ
+			nút xuất excel
